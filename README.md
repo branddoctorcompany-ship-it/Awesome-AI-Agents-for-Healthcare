@@ -225,7 +225,7 @@ If you find our paper and repository helpful, please cite:
 1. [arxiv 2025.6] **AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data** [[paper]](http://arxiv.org/abs/2506.04032v1)
 1. [arxiv 2025.6] **VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety** [[paper]](http://arxiv.org/abs/2506.03520v1)
 1. [ACL 2025 Findings] **AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation** [[paper]](http://arxiv.org/abs/2506.00551v2) [[code]](https://github.com/sci-m-wang/AnnaAgent)
-1. [ACL 2025] **ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents** [[paper]](http://arxiv.org/abs/2410.17657v3)
+1. [ACL 2025] **ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents** [[paper]](http://arxiv.org/abs/2410.17657v3) [[Github]](https://github.com/BlueZeros/ReflecTool) [[Project]](https://bluezeros.github.io/ReflecTool-Page/)
 1. [arxiv 2025.6] **RadFabric: Agentic AI System with Reasoning Capability for Radiology** [[Paper]](https://arxiv.org/abs/2506.14142) [[Project]](https://yidong11.github.io/Towards-Multi-Modal-Agentic-AI-System-for-Chest-X-Ray/) |
 1. [arxiv 2025.5] **CDR-Agent: Intelligent Selection and Execution of Clinical Decision Rules Using Large Language Model Agents** [[paper]](http://arxiv.org/abs/2505.23055v1) [[code]](https://github.com/zhenxianglance/medagent-cdr-agent)
 1. [arxiv 2025.5] **BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum** [[paper]](http://arxiv.org/abs/2505.21757v1)
@@ -266,7 +266,7 @@ If you find our paper and repository helpful, please cite:
 1. [arxiv 2025.2] **Regulatory science innovation for generative AI and large language models in health and medicine: a global call for action** [[paper]](http://arxiv.org/abs/2502.07794v1)
 1. [ACL 2025] **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration** [[paper]](http://arxiv.org/abs/2502.02807v1)
 1. [ICML 2025] **MedRAX: Medical Reasoning Agent for Chest X-ray** [[paper]](http://arxiv.org/abs/2502.02673v2) [[code]](https://github.com/bowang-lab/MedRAX)
-1. [ICCV 2025] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[Paper]](https://arxiv.org/abs/2502.08916) [[project page]](https://pathfinder-dx.github.io/)
+1. [ICCV 2025] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[Paper]](https://arxiv.org/abs/2502.08916) [[project page]](https://pathfinder-dx.github.io/) [[Github]](https://github.com/ghezloo/PathFinder)
 1. [arxiv 2025.2] **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** [[paper]](https://arxiv.org/abs/2502.20301)
 1. [NEJM AI 2025] **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** [[paper]](http://arxiv.org/abs/2501.14654v2) [[project page]](https://github.com/stanfordmlgroup/MedAgentBench)
 1. [arxiv 2025.1] **AI Chatbots as Professional Service Agents: Developing a Professional Identity** [[paper]](http://arxiv.org/abs/2501.14179v2)
@@ -322,22 +322,26 @@ If you find our paper and repository helpful, please cite:
 1.  [COLM 2025] **Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy** [[paper]](http://arxiv.org/abs/2503.09639v4)
 1.  [ACL 2025 Findings] **PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation** [[paper]](http://arxiv.org/abs/2411.13902v1) [[project page]](https://github.com/FudanDISC/PIORS)
 1. [Communications Medicine 2025] **Simulated patient systems are intelligent when powered by large language model-based AI agents** [[paper]](http://arxiv.org/abs/2409.18924v3)
+1. [AAMAS 2025] **On the limits of agency in agent-based models** [[paper]](http://arxiv.org/abs/2409.10568v3)
+1. [ACL 2025 Findings] **Cod, towards an interpretable medical agent using chain of diagnosis** [[paper]](http://arxiv.org/abs/2407.13301v2)
+1. [Advanced Intelligent Systems 2025] **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning** [[paper]](http://arxiv.org/abs/2405.11640v1)
+1. [NeurIPS 2025] **Clinicallab: Aligning agents for multi-departmental clinical diagnostics in the real world** [[paper]](http://arxiv.org/abs/2406.13890v2)
+1. [Cell Reports Medicine 2025] **Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties** [[paper]](https://arxiv.org/abs/2402.01741)
+1.  [PMLR 2025] **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis** [[paper]](http://arxiv.org/abs/2412.16833v4)
+
 
 ## Year 2024
 
-1.  [arxiv 2024.12] **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis** [[paper]](http://arxiv.org/abs/2412.16833v4)
 1.  [arxiv 2024.12] **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** [[paper]](http://arxiv.org/abs/2412.14769v1)
 1.  [IEEE Big Data] **SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot** [[paper]](http://arxiv.org/abs/2412.05187v1) [[code]](https://github.com/franciszchen/SurgBox)
 1.  [Bioinformatics] **AI-HOPE: an AI-driven conversational agent for enhanced clinical and genomic data integration in precision medicine research** [[paper]](https://academic.oup.com/bioinformatics/article/41/7/btaf359/8169327)
 1.  [arxiv 2024.10] **IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery** [[paper]](http://arxiv.org/abs/2410.12868v1) [[project page]](https://github.com/uheal/imas)
 1.  [arxiv 2024.10] **KGARevion: An AI Agent for Knowledge-Intensive Biomedical QA** [[paper]](http://arxiv.org/abs/2410.04660v2)
 1.  [arxiv 2024.10] **Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics** [[paper]](http://arxiv.org/abs/2410.02026v1)
-1. [arxiv 2024.9] **On the limits of agency in agent-based models** [[paper]](http://arxiv.org/abs/2409.10568v3)
 1. [arxiv 2024.9] **Chatting Up Attachment: Using LLMs to Predict Adult Bonds** [[paper]](http://arxiv.org/abs/2409.00347v1)
 1. [MLHC 2024] **MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance** [[paper]](http://arxiv.org/abs/2408.01869v1) [[project page]](https://github.com/jihyechoi77/malade)
 1. [arxiv 2024.8] **Agentic llm workflows for generating patient-friendly medical reports** [[paper]](http://arxiv.org/abs/2408.01112v2) [[project page]](https://github.com/malavikhasudarshan/Multi-Agent-Patient-Letter-Generation)
-1. [arxiv 2024.7] **Compeer: A generative conversational agent for proactive peer support** [[paper]](http://arxiv.org/abs/2407.18064v2)
-1. [arxiv 2024.7] **Cod, towards an interpretable medical agent using chain of diagnosis** [[paper]](http://arxiv.org/abs/2407.13301v2)
+1. [ACM UIST 2024] **Compeer: A generative conversational agent for proactive peer support** [[paper]](http://arxiv.org/abs/2407.18064v2)
 1. [arxiv 2024.7] **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** [[paper]](http://arxiv.org/abs/2407.03103v2)
 1. [TMI] **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering** [[paper]](https://ieeexplore.ieee.org/abstract/document/10752912)
 1. [ICLR 2025 Oral] **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** [[paper]](https://arxiv.org/abs/2407.00203) [[project page]](https://github.com/PathFoundation/PathGen-1.6M)
@@ -347,12 +351,10 @@ If you find our paper and repository helpful, please cite:
 1. [ICML 2024 AI for Science Workshop] **TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage** [[paper]](https://openreview.net/forum?id=9b5Z1t2EO3)
 1. [KDD'24 Workshop] **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** [[paper]](https://www.pure.ed.ac.uk/ws/portalfiles/portal/487318240/EHRFlow_WU_DOA28062024_VOR_CC-BY.pdf)
 1. [arxiv 2024.12] **Agents on the Bench: Large Language Model Based Multi-Agent Framework for Trustworthy Digital Justice** [[paper]](https://arxiv.org/abs/2412.18697)
-1. [arxiv 2024.6] **Clinicallab: Aligning agents for multi-departmental clinical diagnostics in the real world** [[paper]](http://arxiv.org/abs/2406.13890v2)
 1. [MLHS 2025] **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** [[paper]](https://proceedings.mlr.press/v259/naeem25a.html)
 1. [NeurIPS 2024] **MEDIQ: Question-Asking LLMs and a Benchmark for Medical Information-Seeking** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/32b80425554e081204e5988ab1c97e9a-Paper-Conference.pdf) [[project page]](https://github.com/stellalisy/mediQ)
 1. [arxiv 2024.6] **CliBench: A Multifaceted and Multigranular Evaluation of Clinical Diagnosis with LLMs** [[paper]](https://arxiv.org/abs/2406.09923)
 1. [arxiv 2024.5] **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments** [[paper]](https://arxiv.org/abs/2405.07960)
-1. [arxiv 2024.5] **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning** [[paper]](http://arxiv.org/abs/2405.11640v1)
 1. [AAAI 2025 workshop AI4Research] **Drugagent: Automating ai-aided drug discovery programming through llm multi-agent collaboration** [[paper]](https://arxiv.org/abs/2411.15692)
 1. [arxiv 2024.5] **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** [[paper]](http://arxiv.org/abs/2405.02957v3)
 1. [EMNLP 2024] **Ehragent: Code empowers large language models for few-shot complex tabular reasoning on electronic health records** [[paper]](https://aclanthology.org/2024.emnlp-main.1245/)
@@ -367,7 +369,6 @@ If you find our paper and repository helpful, please cite:
 1. [JAMIA Open 2024] **Conversational health agents: A personalized llm-powered agent framework** [[paper]](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991) [[project page]](https://github.com/Institute4FutureHealth/CHA)
 1. [JMIR 2024] **Mitigating cognitive biases in clinical decision-making through multi-agent conversations using large language models: simulation study** [[paper]](https://doi.org/10.2196/59439)
 1. [JMIR 2024] **A language model--powered simulated patient with automated feedback for history taking: Prospective study** [[paper]](https://doi.org/10.2196/59213)
-1. [arxiv 2024.2] **Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties** [[paper]](https://arxiv.org/abs/2402.01741)
 1. [IEEE SoftCOM 2024] **A multi-agent architecture for privacy-preserving natural language interaction with FHIR-based electronic health records** [[paper]](https://ieeexplore.ieee.org/document/10721684/)
 1. [IEEE ISDFS 2024] **Llm-based framework for administrative task automation in healthcare** [[paper]](https://ieeexplore.ieee.org/document/10527275)
 1. [IEEE Access 2024] **Knowledge-Routed Automatic Diagnosis With Heterogeneous Patient-Oriented Graph** [[paper]](https://ieeexplore.ieee.org/iel8/6287639/10380310/10552852.pdf)
@@ -450,7 +451,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs**                | arXiv         | 2025.08 | [Paper](http://arxiv.org/abs/2508.02258v1)                | ![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG) |
 | **Evidence-based diagnostic reasoning with multi-agent copilot for human pathology**                              | arXiv         | 2025.06 | [Paper](http://arxiv.org/abs/2506.20964v1)                | Not Available                                                                                                                                                              |
 | **CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis**        | NeurIPS        | 2025.05 | [Paper](http://arxiv.org/abs/2505.20510v1)                | Not Available                                                                                                                                                              |
-| **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** | ICCV         | 2025.02 | [Paper](https://arxiv.org/abs/2502.08916)                 | [project](https://pathfinder-dx.github.io/)                                                                                                                                |
+| **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** | ICCV         | 2025.02 | [Paper](https://arxiv.org/abs/2502.08916)                 | [project](https://pathfinder-dx.github.io/)  ![Star](https://img.shields.io/github/stars/ghezloo/PathFinder.svg?style=social&label=Star) <br> [GitHub](https://github.com/ghezloo/PathFinder)                                                                                                                              |
 | **WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis**                     | MICCAI (Oral) | 2025    | [Paper](https://arxiv.org/abs/2507.14680)                 | ![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-Agents.svg?style=social&label=Star) <br> [GitHub](https://github.com/XinhengLyu/WSI-Agents)                     |
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering**            | MLHS          | 2025    | [Paper](https://proceedings.mlr.press/v259/naeem25a.html) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag)           |
 | **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration**             | ICLR (Oral)   | 2024 | [Paper](https://arxiv.org/abs/2407.00203)                 | ![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star) <br> [GitHub](https://github.com/PathFoundation/PathGen-1.6M)         |
