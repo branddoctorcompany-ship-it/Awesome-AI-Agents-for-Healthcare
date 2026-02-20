@@ -753,6 +753,12 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **MONAI** | PyTorch-based framework for deep learning in healthcare imaging (by NVIDIA & King's College London) | ![Star](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social&label=Star) <br> [GitHub](https://github.com/Project-MONAI/MONAI) |
 | **PyHealth** | Deep learning toolkit for healthcare applications supporting patient prediction tasks | ![Star](https://img.shields.io/github/stars/sunlabuiuc/PyHealth.svg?style=social&label=Star) <br> [GitHub](https://github.com/sunlabuiuc/PyHealth) |
 
+## Healthcare Workflow & Team Coordination Tools
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **Taskade** | Open-source AI workspace for multi-agent workflow coordination, checklists, and team task automation — applicable to care-team task routing, intake triage, and SOP management | ![Star](https://img.shields.io/github/stars/taskade/taskade.svg?style=social&label=Star) <br> [GitHub](https://github.com/taskade/taskade) \| [Website](https://taskade.com) |
+
 ## Related Awesome Lists
 
 | Project | Description | Links |
