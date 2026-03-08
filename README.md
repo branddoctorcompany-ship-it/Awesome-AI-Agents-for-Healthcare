@@ -86,7 +86,7 @@ If you find our paper and repository helpful, please cite:
 1. [EACL 2026 Workshop] **Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?** [[paper]](https://arxiv.org/abs/2603.04421)
 1. [arxiv 2026.3] **MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus** [[paper]](https://arxiv.org/abs/2603.05129)
 1. [arxiv 2026.3] **MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation** [[paper]](https://arxiv.org/abs/2603.01131)
-1. [arxiv 2026.3] **From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG** [[paper]](https://arxiv.org/abs/2603.03292)
+1. [arxiv 2026.3] **From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG** [[paper]](https://arxiv.org/abs/2603.03292) [[Github]](https://github.com/NJU-RL/MA-RAG)
 1. [arxiv 2026.3] **MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatric Consultation** [[paper]](https://arxiv.org/abs/2603.03677)
 1. [arxiv 2026.3] **DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents** [[paper]](https://arxiv.org/abs/2603.00777)
 1. [arxiv 2026.3] **OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation** [[paper]](https://arxiv.org/abs/2603.00462)
@@ -447,6 +447,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning** | ICLR | 2026.03 | [Paper](https://arxiv.org/abs/2603.01607) | Not Available |
 | **3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.18064) | Not Available |
 | **CoMMa: Contribution-Aware Medical Multi-Agents From A Game-Theoretic Perspective** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.09159) | Not Available |
+| **MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.12705) | Not Available |
 | **Picking the Right Specialist: Attentive Neural Process-based Selection of Task-Specialized Models** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.14901) | Not Available |
 | **Human-Guided Agentic AI for Multimodal Clinical Prediction** | ICHI | 2026.02 | [Paper](https://arxiv.org/abs/2602.19502) | Not Available |
 | **MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic RL** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.03320) | ![Star](https://img.shields.io/github/stars/CUHK-AIM-Group/MedSAM-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/CUHK-AIM-Group/MedSAM-Agent) |
@@ -588,10 +589,11 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                                 | Venue             | Date    | Paper Link                                             | Project Page                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :---------------- | :------ | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.13332) | Not Available |
 | **ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue** | ICLR | 2026.03 | [Paper](https://arxiv.org/abs/2603.02216) | Not Available |
 | **MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.05129) | Not Available |
 | **MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.01131) | Not Available |
-| **From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.03292) | Not Available |
+| **From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.03292) | ![Star](https://img.shields.io/github/stars/NJU-RL/MA-RAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/NJU-RL/MA-RAG) |
 | **TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.01241) | Not Available |
 | **A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.04142) | Not Available |
 | **Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?** | EACL Workshop | 2026.03 | [Paper](https://arxiv.org/abs/2603.04421) | Not Available |
@@ -599,7 +601,6 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.07905) | Not Available |
 | **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.09945) | Not Available |
 | **A Multi-Agent Framework for Medical AI: Leveraging GPT, LLaMA, and DeepSeek R1** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.14158) | Not Available |
-| **MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.12705) | Not Available |
 | **Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.04926) | Not Available |
 | **RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.01297) | Not Available |
 | **Agentic Reasoning for Large Language Models** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.12538) | ![Star](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning.svg?style=social&label=Star) <br> [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning) |
