@@ -146,6 +146,10 @@ If you find our paper and repository helpful, please cite:
 1. [ICLR 2026] **MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale** [[paper]](https://openreview.net/pdf?id=oZSofhtmIc#page=0.42) [[Github]](https://github.com/wshi83/MedAgentGym)
 1. [AAAI 2026] **LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules** [[paper]](https://arxiv.org/abs/2511.21042) [[Github]](https://github.com/ImYangC7/LungNoduleAgent)
 1.  [Nature Communications 2026] **Wearable Intelligent Throat Enables Natural Speech in Stroke Patients with Dysarthria** [[paper]](http://arxiv.org/abs/2411.18266v3)
+1. [npj Artificial Intelligence 2026] **AI agent in healthcare: applications, evaluations, and future directions** [[paper]](https://www.nature.com/articles/s44387-026-00076-4)
+1. [npj Digital Medicine 2026] **Benchmarking large language model-based agent systems for clinical decision tasks** [[paper]](https://www.nature.com/articles/s41746-026-02443-6)
+1. [npj Digital Medicine 2026] **Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward** [[paper]](https://www.nature.com/articles/s41746-026-02453-4)
+1. [Nature Biotechnology 2026] **Agentic AI and the rise of in silico team science in biomedical research** [[paper]](https://www.nature.com/articles/s41587-026-03035-1)
 
 ## Year 2025
 
@@ -368,6 +372,33 @@ If you find our paper and repository helpful, please cite:
 1. [NeurIPS 2025] **Clinicallab: Aligning agents for multi-departmental clinical diagnostics in the real world** [[paper]](http://arxiv.org/abs/2406.13890v2)
 1. [Cell Reports Medicine 2025] **Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties** [[paper]](https://arxiv.org/abs/2402.01741)
 1.  [PMLR 2025] **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis** [[paper]](http://arxiv.org/abs/2412.16833v4)
+1. [Nature Machine Intelligence 2025] **LLM-based agentic systems in medicine and healthcare** [[paper]](https://www.nature.com/articles/s42256-024-00944-1)
+1. [ACL 2025 Findings] **A Survey of LLM-based Agents in Medicine: How far are we from Baymax?** [[paper]](https://arxiv.org/abs/2502.11211) [[Github]](https://github.com/AIM-Research-Lab/Awesome-AI-Agents-Medicine)
+1. [TechRxiv 2025] **The Landscape of Medical Agents: A Survey** [[paper]](https://www.techrxiv.org/users/1005258/articles/1368207) [[Github]](https://github.com/NUS-Project/Landmark-of-medical-agent)
+1. [TechRxiv 2025] **Agentic large-language-model systems in medicine: A systematic review and taxonomy** [[paper]](https://www.techrxiv.org/users/960463/articles/1330469-agentic-large-language-model-systems-in-medicine-a-systematic-review-and-taxonomy)
+1. [Medicine Advances 2025] **Agentic large language models for healthcare: current progress and future opportunities** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/med4.70000)
+1. [TechRxiv 2025] **A Survey of LLM-based Multi-agent Systems in Medicine** [[paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1)
+1. [Cell Reports Medicine 2025] **A foundational architecture for AI agents in healthcare** [[paper]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00447-1)
+1. [Nature Biomedical Engineering 2025] **Coordinated AI agents for advancing healthcare** [[paper]](https://www.nature.com/articles/s41551-025-01363-2)
+1. [Cell Reports Medicine 2025] **Next-generation agentic AI for transforming healthcare** [[paper]](https://www.sciencedirect.com/science/article/pii/S2949953425000141)
+1. [Information (MDPI) 2025] **Large Language Model Agents for Biomedicine: A Comprehensive Review of Methods, Evaluations, Challenges, and Future Directions** [[paper]](https://www.mdpi.com/2078-2489/16/10/894)
+1. [PLOS ONE 2025] **Artificial intelligence agents in healthcare research: A scoping review** [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182)
+1. [npj Digital Medicine 2025] **Enhancing diagnostic capability with multi-agents conversational large language models** [[paper]](https://www.nature.com/articles/s41746-025-01550-0) [[Github]](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis)
+1. [International Journal of Medical Informatics 2025] **Applications of artificial intelligence-based conversational agents in healthcare: A systematic umbrella review** [[paper]](https://www.sciencedirect.com/science/article/pii/S1386505625004216)
+1. [HAL 2025] **Scoping Review of Agentic AI Systems in Healthcare** [[paper]](https://hal.science/hal-05491919v1/document)
+1. [Preprints.org 2025] **AI Agents in Modern Healthcare: From Foundation to Pioneer — A Comprehensive Review and Implementation Roadmap for Impact and Integration in Clinical Settings** [[paper]](https://www.preprints.org/manuscript/202503.1352)
+1. [Asian Journal of Medical Principles and Clinical Practice 2025] **Multi-Agent AI Systems in Healthcare: A Systematic Review Enhancing Clinical Decision-Making** [[paper]](https://journalajmpcp.com/index.php/AJMPCP/article/view/288)
+1. [medRxiv 2025] **AI agents in clinical medicine: a systematic review** [[paper]](https://www.medrxiv.org/content/10.1101/2025.08.22.25334232v1)
+1. [Radiology: Artificial Intelligence (RSNA) 2025] **Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration** [[paper]](https://pubs.rsna.org/doi/10.1148/ryai.250651)
+1. [Indian Journal of Radiology and Imaging 2025] **From chatbots to agentic workflows: ensuring responsible deployment of large language models in radiology** [[paper]](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0045-1811264)
+1. [Bioengineering (MDPI) 2025] **Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges** [[paper]](https://www.mdpi.com/2306-5934/12/12/1303)
+1. [arxiv 2025.10] **Agentic systems in radiology: Design, Applications, Evaluation, and Challenges** [[paper]](https://arxiv.org/abs/2510.09404)
+1. [British Journal of Radiology 2025] **Agentic AI in radiology: emerging potential and unresolved challenges** [[paper]](https://academic.oup.com/bjr/article/98/1174/1582/8211910)
+1. [Radiography 2025] **Agentic systems in radiology: Principles, opportunities, privacy risks, regulation, and sustainability concerns** [[paper]](https://www.sciencedirect.com/science/article/pii/S2211568425001858)
+1. [Tomography (MDPI) 2025] **The Role of Agentic AI in Musculoskeletal Radiology: A Scoping Review** [[paper]](https://www.mdpi.com/2073-431X/15/2/89)
+1. [Nurse Education Today 2025] **Large language model-driven agents in nursing practice: A scoping review** [[paper]](https://www.sciencedirect.com/science/article/pii/S2352013225001309)
+1. [Communications Medicine 2025] **Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education** [[paper]](https://www.nature.com/articles/s43856-025-01283-x)
+1. [Biocomputing 2025] **Using large language models for efficient cancer registry coding in the real hospital setting: A feasibility study** [[paper]](https://doi.org/10.1142/9789819807024_0010)
 
 
 ## Year 2024
@@ -423,7 +454,8 @@ If you find our paper and repository helpful, please cite:
 1. [ArabicNLP 2024] **Synthetic arabic medical dialogues using advanced multi-agent llm techniques** [[paper]](https://aclanthology.org/2024.arabicnlp-1.2/)
 1. [ECCV Workshop 2024] **Medco: Medical education copilots based on a multi-agent framework** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-91813-1_8)
 1. [Healthcare Information 2024] **A Medical Consultation System for Geriatric Disease Based on Multi-agent Architecture and Knowledge Graph** [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-5597-7_28)
-1. [Biocomputing 2025] **Using large language models for efficient cancer registry coding in the real hospital setting: A feasibility study** [[paper]](https://doi.org/10.1142/9789819807024_0010)
+1. [Cell 2024] **Empowering biomedical discovery with AI agents** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5) [[Github]](https://github.com/OmicsML/awesome-agents-biology-papers)
+
 
 ## Year 2023
 
