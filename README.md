@@ -902,6 +902,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **Google Cloud Healthcare API MCP** | MCP server for Google Cloud Healthcare API FHIR resources and medical research APIs | ![Star](https://img.shields.io/github/stars/Kartha-AI/google-cloud-healthcare-api-mcp.svg?style=social&label=Star) <br> [GitHub](https://github.com/Kartha-AI/google-cloud-healthcare-api-mcp) |
 | **AWS HealthLake MCP Server** | MCP server for AWS HealthLake FHIR operations with 11 tools for FHIR resource management | [Documentation](https://awslabs.github.io/mcp/servers/healthlake-mcp-server) |
 | **Awesome Medical MCP Servers** | Curated collection of Medical MCP servers for healthcare data integration | ![Star](https://img.shields.io/github/stars/sunanhe/awesome-medical-mcp-servers.svg?style=social&label=Star) <br> [GitHub](https://github.com/sunanhe/awesome-medical-mcp-servers) |
+| **BGPT MCP** | Hosted MCP server for searching scientific papers with full-text experimental data extraction; covers biomedical, clinical, and life science studies; `search_papers` tool returns structured data (methods, results, sample sizes); 50 free searches | ![Star](https://img.shields.io/github/stars/connerlambden/bgpt-mcp.svg?style=social&label=Star) <br> [GitHub](https://github.com/connerlambden/bgpt-mcp) |
 
 ## Healthcare RAG & Knowledge Systems
 
