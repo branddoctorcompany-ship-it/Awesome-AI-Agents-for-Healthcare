@@ -894,6 +894,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **HealthGPT (Stanford)** | Experimental iOS app for natural language interaction with Apple Health data | ![Star](https://img.shields.io/github/stars/StanfordBDHG/HealthGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/StanfordBDHG/HealthGPT) |
 | **DoctorGPT** | Offline-first LLM fine-tuned on medical dialogue data that can pass the US Medical Licensing Exam | ![Star](https://img.shields.io/github/stars/tmc/DoctorGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/tmc/DoctorGPT) |
 | **Anthropic Healthcare Skills** | Official healthcare skills including FHIR developer tools, prior auth review, and clinical trial protocol generation | [GitHub](https://github.com/anthropics/healthcare) |
+| **Voice AI SDR Agent** | Production-ready autonomous AI phone agent for patient outreach, appointment scheduling, and healthcare communication using LangGraph and Twilio | ![Star](https://img.shields.io/github/stars/Rajathbharadwaj/voice-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Rajathbharadwaj/voice-agent) |
 
 ## Healthcare MCP Servers
 
